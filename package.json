@@ -1,0 +1,9 @@
+{
+	"name": "smartdrone",
+	"version": "0.0.1",
+	"start": "server.js",
+	"dependencies": {
+		"ar-drone": "*",
+		"myo": "*"
+	}
+}
